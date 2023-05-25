@@ -1,0 +1,32 @@
+1;1;Ian;Farrell;National Geographic,Sturm College of Law
+1;2;Roswell;Angier;Gitterman Gallery,Ph
+1;3;Paul;Wilkinson;National Geographic
+1;4;Bryan;Peterson;Salem Shop,Oregon Shop
+1;5;Chris;Knight;Slaughters SingWriting,PhotoStudio
+1;6;Maria;Gelido;Copywriter SRL,Social Media CEO,Oxford University
+1;7;R.L.;Stevenson;Writer SRL,London Uni
+1;8;Stefan;Yoshovski;IIS Severi,Unical,Casa
+1;9;Alexandra;Bracken;New York Uni,Oxford Uni
+2;Alla scoperta della luce;ASLD;Gioia Tauro;16/10/2020;Stefan Yoshovski,Mark;50
+2;Lezione 25;L25;Teams;10/01/2021;Stefan Yoshovski,Dodaro,Perri;120
+2;Programmazione;PT;Teams;03/03/2017;Dodaro,Perri;100
+2;Informatica;IT;Teams;05/11/2019;Dodaro,Perri;89
+2;Save the Planet;STP;Ted Talk Milano;24/08/2011;Greta Thunberg,Stefan Yoshovski,Tony Yoshovska;20
+3;Portrait Magazine;PM;Zanichelli;10/05/2018;1
+3;Reflex Show;RSH;STE SRL;14/01/2021;5
+3;Animal Love;LVE;ZooPet SRL;10/02/2013;27
+3;I romanzi belli;IRB;Mondadori;14/02/2016;35
+4;1;Corso Base di Fotografia;500;2,3;foto,reflex,dslr,fotografia analogica;79.99;;2;Alla scoperta della luce|ASLD|Gioia Tauro|16/10/2020|Stefan Yoshovski,Mark|50
+4;2;Picture Perfect Posing;400;1,2,3;ritratti,composizione,foto,reflex,50mm,dslr,fotografia moderna;19.99;1;3;Portrait Magazine|PM|Zanichelli|10/05/2018|1
+4;3;Darkest Minds;355;9;ebook,fanatsy,adventure,best seller;17.90;;3;I romanzi belli|IRB|Mondadori|14/02/2016|35
+4;4;Dr Jekyl and Mr Hyde;230;7;mistero,fantasy,adventure,best seller;2.99;3;3;I romanzi belli|IRB|Mondadori|14/02/2016|35
+4;5;Cromorama;450;6;colore,design,illustrazione;24.00;;2;Alla scoperta della luce|ASLD|Gioia Tauro|16/10/2020|Stefan Yoshovski,Mark|50
+4;6;Occhio del Fotografo;120;1,4;composizione,foto,reflex,dslr,fotografia moderna;18.00;1,2;3;Reflex Show|RSH|STE SRL|14/01/2021|5
+4;7;C++ Beginner;333;8,9;artificial intelligence,machine learning,deep learning;60.00;;2;Programmazione|PT|Teams|03/03/2017|Dodaro,Perri|100
+4;8;AI Assistant Pro;125;8,3;artificial intelligence,knowledge representation;60.00;;2;Programmazione|PT|Teams|03/03/2017|Dodaro,Perri|100
+4;9;Learn Java;325;2,3;artificial intelligence,natural language processing,deep learning,machine learning;89.99;7;2;Informatica|IT|Teams|05/11/2019|Dodaro,Perri|89
+4;10;Freelancer Developer;120;2,8,3;artificial intelligence,knowledge representation;79.99;8;2;Informatica|IT|Teams|05/11/2019|Dodaro,Perri|89
+4;11;Panda World;70;1,5,3;Animal,Panda,Asia;121.99;1;2;Save the Planet|STP|Ted Talk Milano|24/08/2011|Greta Thunberg,Stefan Yoshovski,Tony Yoshovska|20
+4;12;Panda SpaceX Colonization;124;1,6,2;SpaceX,Mars,Colonization;232.99;11;3;Animal Love|LVE|ZooPet SRL|10/02/2013|27
+4;13;Colonizzare nello Spazio;455;2,8,9;Colonizzazione,Marte,Spazio;109.00;12;2;Alla scoperta della luce|ASLD|Gioia Tauro|16/10/2020|Stefan Yoshovski,Mark|50
+4;14;Tuttologia;1000;1,3,5,7,9;Materia del tutto,Sapere,Tutto;109.00;11,13;3;I romanzi belli|IRB|Mondadori|14/02/2016|35
